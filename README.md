@@ -1,5 +1,7 @@
 # Muralla China 3D 🧱 — visor (demo)
 
+**En línea:** https://muralla-china-3d.vercel.app/
+
 Visor 3D low-poly de la Gran Muralla China, hecho con **Three.js**. Arrastra para
 girar, rueda o pellizco para acercar. Sin backend, sitio 100% estático.
 
